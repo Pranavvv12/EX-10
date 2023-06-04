@@ -1,16 +1,16 @@
 # EX-10 APPLICATION USING TCP SOCKETS - FILE TRANSFER PROGRAM:
 # EXP: 10
 ## DATE:10-05-2023
-### AIM:
+## AIM:
 To write a python program for creating Chat using TCP Sockets Links.
 
-### ALGORITHM:
-## Client:
-## 1.Import the necessary modules in python
-## 2.Create a socket connection to using the socket module.
-## 3.Send message to the client and receive the message from the client using the Socket module in server
-## 4.Send and receive the message using the send function in socket.
-### PROGRAM:
+## ALGORITHM:
+### Client:
+### 1.Import the necessary modules in python
+### 2.Create a socket connection to using the socket module.
+### 3.Send message to the client and receive the message from the client using the Socket module in server
+### 4.Send and receive the message using the send function in socket.
+## PROGRAM:
 ## CLIENT:
 ```
 import socket
@@ -68,5 +68,5 @@ while True:
 ![image](https://github.com/Pranavvv12/EX-10/assets/121292280/51f54f63-09db-4882-bb6d-8fd59fbc5a63)
 
 
-### RESULT:
+## RESULT:
 Thus, the python program for creating File Transfer using TCP Sockets Links was successfully created and executed.
